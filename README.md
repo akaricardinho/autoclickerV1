@@ -1,1 +1,1 @@
-# autoclickerV1
+first application i have ever made with python, using tkinter, pyautogui and threading, may have a lot of bugs since i made this for personal use, also, click in the stop button when you are about to close the program, otherwise the autoclicker will not stop and you will need to terminate it in the task manager, ill be fixing that as soon as possible 
